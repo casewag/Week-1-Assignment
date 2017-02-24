@@ -1,0 +1,23 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  background-color: #ffcccc;
+  width: 1000px;
+  margin: 0 auto;
+  font-size: 15px;
+  border-bottom: 3px solid black;
+  border-top:	3px solid black;
+  padding: 20px 0;
+}
+header	{
+	text-align: center;
+}
+img {
+	float: right;
+	width: 200px;
+	height: 200px;
+	border:3px solid #FFFFFF;
+	border-spacing: 5px;
+	border-radius: 8px;
+	margin-left: 45px;
+
+}

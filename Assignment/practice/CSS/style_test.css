@@ -1,0 +1,14 @@
+body {
+	background: grey;
+	border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+}
+img {
+	border:5px solid pink;
+	border-radius: 5px
+}
+a {
+    color: blue;
+
+}

@@ -1,23 +1,40 @@
 body {
   font-family: helvetica, arial, sans-serif;
-  background-color: #ffcccc;
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
   width: 1000px;
   margin: 0 auto;
   font-size: 15px;
   border-bottom: 3px solid black;
   border-top:	3px solid black;
-  padding: 20px 0;
+  padding: 20px;
 }
 header	{
 	text-align: center;
-}
-img {
-	float: right;
-	width: 200px;
-	height: 200px;
-	border:3px solid #FFFFFF;
-	border-spacing: 5px;
-	border-radius: 8px;
-	margin-left: 45px;
 
+}
+ol	{
+	color: #000099;
+	font-family: Tahoma;
+}
+.social-links {
+	text-align: center;
+	font-family: monospace;
+}
+#tresimages div {
+  display: inline-block;
+}
+.tresimages	{
+	text-align: center;
+	border:3px solid #FFFFFF;
+	border-radius: 8px;
+	padding-bottom: 8px;
+} 
+h1	{
+	font-size: 50px;
+}
+h4	{
+	text-decoration: underline;
+}
+.samples {
+	width: 65%;
 }
